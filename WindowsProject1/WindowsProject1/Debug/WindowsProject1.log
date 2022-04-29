@@ -1,0 +1,4 @@
+﻿  GT_hello.cpp
+G:\vs2019cppproject\WindowsProject1\WindowsProject1\GT_hello.cpp(179,38): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+G:\vs2019cppproject\WindowsProject1\WindowsProject1\GT_hello.cpp(184,45): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  WindowsProject1.vcxproj -> G:\vs2019cppproject\WindowsProject1\Debug\WindowsProject1.exe

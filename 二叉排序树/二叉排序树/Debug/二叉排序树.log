@@ -1,0 +1,19 @@
+﻿  TestBST.cpp
+G:\vs2019cppproject\二叉排序树\二叉排序树\TestBST.cpp(101,13): warning C4326: “main”的返回类型应为“int”而非“void”
+G:\vs2019cppproject\二叉排序树\二叉排序树\BSTStudent.h(284,6): warning C4101: “i”: 未引用的局部变量
+G:\vs2019cppproject\二叉排序树\二叉排序树\BSTStudent.h(283): message : 在编译 类 模板 成员函数“void BST<BSTStu,int>::PrintTree(BSTNode<E,K> *,int)”时
+          with
+          [
+              E=BSTStu,
+              K=int
+          ]
+G:\vs2019cppproject\二叉排序树\二叉排序树\BSTStudent.h(84): message : 查看对正在编译的函数 模板 实例化“void BST<BSTStu,int>::PrintTree(BSTNode<E,K> *,int)”的引用
+          with
+          [
+              E=BSTStu,
+              K=int
+          ]
+G:\vs2019cppproject\二叉排序树\二叉排序树\TestBST.cpp(103): message : 查看对正在编译的 类 模板 实例化“BST<BSTStu,int>”的引用
+G:\vs2019cppproject\二叉排序树\二叉排序树\BSTStudent.h(145): warning C4715: “BST<BSTStu,int>::Insert”: 不是所有的控件路径都返回值
+G:\vs2019cppproject\二叉排序树\二叉排序树\BSTStudent.h(220): warning C4715: “BST<BSTStu,int>::Remove”: 不是所有的控件路径都返回值
+  二叉排序树.vcxproj -> G:\vs2019cppproject\二叉排序树\Debug\二叉排序树.exe

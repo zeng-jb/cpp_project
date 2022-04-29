@@ -1,0 +1,4 @@
+﻿  源.cpp
+G:\vs2019cppproject\CFGAnanlyse\CFGAnanlyse\CFGAnalyse.h(31,2): warning C4091: “typedef ”: 没有声明变量时忽略“CFGAnalyseNode”的左侧
+G:\vs2019cppproject\CFGAnanlyse\CFGAnanlyse\源.cpp(3,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  CFGAnanlyse.vcxproj -> G:\vs2019cppproject\CFGAnanlyse\Debug\CFGAnanlyse.exe

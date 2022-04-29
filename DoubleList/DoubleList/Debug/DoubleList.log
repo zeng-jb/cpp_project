@@ -1,0 +1,3 @@
+﻿  DoubleList.cpp
+G:\vs2019cppproject\DoubleList\DoubleList\DoubleList.cpp(14,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  DoubleList.vcxproj -> G:\vs2019cppproject\DoubleList\Debug\DoubleList.exe

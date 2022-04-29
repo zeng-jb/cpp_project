@@ -1,0 +1,3 @@
+﻿  Main.cpp
+G:\vs2019cppproject\最小堆\最小堆\Main.cpp(20,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  最小堆.vcxproj -> G:\vs2019cppproject\最小堆\Debug\最小堆.exe

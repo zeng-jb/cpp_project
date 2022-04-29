@@ -1,0 +1,8 @@
+﻿  循环链表.cpp
+G:\vs2019cppproject\循环链表作业\循环链表作业\循环链表.cpp(7,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码
+  7 of 24 functions (29.2%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  循环链表作业.vcxproj -> G:\vs2019cppproject\循环链表作业\Release\循环链表作业.exe

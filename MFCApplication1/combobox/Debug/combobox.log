@@ -1,0 +1,5 @@
+﻿  comboboxDlg.cpp
+G:\vs2019cppproject\MFCApplication1\combobox\comboboxDlg.cpp(105,42): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+G:\vs2019cppproject\MFCApplication1\combobox\comboboxDlg.cpp(105,42): error C2664: “int CWnd::MessageBoxW(LPCTSTR,LPCTSTR,UINT)”: 无法将参数 1 从“int”转换为“LPCTSTR”
+G:\vs2019cppproject\MFCApplication1\combobox\comboboxDlg.cpp(105,13): message : 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\atlmfc\include\afxwin.h(2527,6): message : 参见“CWnd::MessageBoxW”的声明

@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(树控件.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pch.cpp
+  树控件.cpp
+  树控件Dlg.cpp
+G:\vs2019cppproject\MFCApplication1\树控件\树控件Dlg.cpp(54,14): error C2065: “IDD_树控件_DIALOG”: 未声明的标识符
+  正在生成代码...

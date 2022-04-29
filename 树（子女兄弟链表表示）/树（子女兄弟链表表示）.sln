@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "树（子女兄弟链表表示）", "树（子女兄弟链表表示）\树（子女兄弟链表表示）.vcxproj", "{93376012-18EA-454F-B27C-B5CC783EAF63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93376012-18EA-454F-B27C-B5CC783EAF63}.Debug|x64.ActiveCfg = Debug|x64
+		{93376012-18EA-454F-B27C-B5CC783EAF63}.Debug|x64.Build.0 = Debug|x64
+		{93376012-18EA-454F-B27C-B5CC783EAF63}.Debug|x86.ActiveCfg = Debug|Win32
+		{93376012-18EA-454F-B27C-B5CC783EAF63}.Debug|x86.Build.0 = Debug|Win32
+		{93376012-18EA-454F-B27C-B5CC783EAF63}.Release|x64.ActiveCfg = Release|x64
+		{93376012-18EA-454F-B27C-B5CC783EAF63}.Release|x64.Build.0 = Release|x64
+		{93376012-18EA-454F-B27C-B5CC783EAF63}.Release|x86.ActiveCfg = Release|Win32
+		{93376012-18EA-454F-B27C-B5CC783EAF63}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E062775-2D68-4840-8B2C-456BCC22D31B}
+	EndGlobalSection
+EndGlobal
